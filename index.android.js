@@ -3,7 +3,7 @@ import {AppRegistry,View,Image} from 'react-native';
 import SplashScreen from './Splash';
 import Sidebar from './components/Sidebar';
 
-export default class UMKM extends React.Component {
+export default class baru1 extends React.Component {
   constructor(props){
     super(props);
     this.state = {
